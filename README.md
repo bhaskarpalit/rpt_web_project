@@ -12,7 +12,7 @@ To find out more about FRED (Cloud based Node-RED), please refer to [FRED](https
 If you have any other questions, please contact us via info@sensetecnic.com
 
 ## OWNER
-Bhaskar Palit
+Kishore
 
 ## COPYRIGHT
 
